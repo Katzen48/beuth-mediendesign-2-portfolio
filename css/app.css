@@ -82,6 +82,9 @@ header {
     padding-top: 10rem !important;
 }
 
+.pb-20 {
+    padding-bottom: 20rem !important;
+}
 
 .cd-image-container {
     position: relative;
